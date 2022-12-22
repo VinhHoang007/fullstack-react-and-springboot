@@ -1,0 +1,5 @@
+package com.vinhhn11.springbootlibrary.dao;
+
+public class BookRepository {
+
+}
