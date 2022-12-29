@@ -22,3 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 *.log*
+*.history
+*.si
+*.cfe
+*.cfs
+segments_5
+*.tree
