@@ -6,7 +6,7 @@ export const Navbar = () => {
                 <button
                     className="navbar-toggler"
                     type="button"
-                    data-bs-toggler="collapse"
+                    data-bs-toggle="collapse"
                     data-bs-target="#navbarNavDropdown"
                     aria-controls="navbarNavDropdown"
                     aria-expanded="false"
