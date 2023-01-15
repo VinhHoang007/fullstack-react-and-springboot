@@ -26,6 +26,5 @@ yarn-error.log*
 *.si
 *.cfe
 *.cfs
-segments_5
 *.tree
-*.metadata*
+.metadata/
