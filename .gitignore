@@ -28,3 +28,4 @@ yarn-error.log*
 *.cfs
 *.tree
 .metadata/
+.idea
